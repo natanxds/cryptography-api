@@ -20,7 +20,7 @@ This is a Spring Boot application that provides a RESTful API for managing encry
 
 ### Running the Application
 
-1. Clone the repository: `git clone https://github.com/Natan-Xavier-da-Silva-MCFP36_moto/cryptography.git`
+1. Clone the repository
 2. Navigate into the directory: `cd cryptography`
 3. Run the application: `mvn spring-boot:run`
 
